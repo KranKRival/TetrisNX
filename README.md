@@ -1,4 +1,5 @@
 # TetrisNX
+![alt text](https://github.com/KranKRival/TetrisNX/blob/master/screen.jpg)
 ```
 Tetris clone made in C using SDL2 for the nintendo switch
 ```
